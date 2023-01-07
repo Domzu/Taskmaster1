@@ -5,19 +5,16 @@ A simple project that is built using the Django web framework, With the app, you
 ## Features:
 
 Add Tasks
-
 ![Add task](https://user-images.githubusercontent.com/114202252/211123288-931f1f56-a794-4f1a-8c79-10f42c3840f4.gif)
 
 This feature allows users to easily create new tasks and add them to their to-do list. The "Add Tasks" feature is intuitive and user-friendly, making it easy for users to quickly add tasks and stay organized. It's a essential feature for any task management app, and is essential for helping users stay on top of their responsibilities and achieve their goals.
 
 Delete Tasks
-
 ![Delete task](https://user-images.githubusercontent.com/114202252/211123387-32724166-5dd2-4e8e-888d-9d65581f48d3.gif)
 
 This feature gives users the ability to remove tasks from their to-do list that are no longer relevant or needed. This feature is essential for helping users stay organized and focused on their most important tasks.
 
 Update Tasks
-
 ![Update task](https://user-images.githubusercontent.com/114202252/211123407-5014bc38-bab5-4a46-b776-39f35e60f85e.gif)
 
 This feature allows users to easily edit and modify their existing tasks. With this feature, users can change the task name, update the status, and make any other necessary changes to the task details. This is an essential feature for any task management app, as it helps users stay organized and on top of their responsibilities.
