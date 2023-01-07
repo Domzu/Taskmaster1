@@ -1,6 +1,6 @@
 # Task Master
 
-A simple project that is built using the Django web framework, With the app, you can easily create new tasks, delete tasks, update tasks and mark tasks as complete. Task Master app makes it easy to see what needs to be done and helps you stay focused on your priorities. If you need to plan your day to day task, Task Master has you covered. With its clean and user-friendly interface, Task Master is the perfect tool for staying organized and getting things done.
+A simple project that is built using the Django web framework, With the app, you can easily create new tasks, delete tasks, update tasks and mark tasks as complete. Task Master app makes it easy to see what needs to be done and helps you stay focused on your priorities. Whether you need to plan your day, week, or month, Task has you covered. With its clean and user-friendly interface, Task Master is the perfect tool for staying organized and getting things done.
 
 ## Features:
 
